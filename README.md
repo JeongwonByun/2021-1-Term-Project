@@ -41,13 +41,15 @@ WebContent
     > searchOutput
     > UpdateOutput
     
-  > Admin
-  > Delete
-  > Insert
-  > List
-  > Login
-  > Search
-  > Update
+  WEB-INF  
+  
+    > Admin
+    > Delete
+    > Insert
+    > List
+    > Login
+    > Search
+    > Update
   
  
   
