@@ -6,7 +6,9 @@
 첫화면 하단의 admin을 클릭해서 관리자 로그인 창으로 접속
 관리자 로그인(id:a,pwd:a)을 하면 관리자 메뉴에서 정보 입력, 수정, 삭제, 조회 목록이 뜸
 각각을 클릭하여 관리자서비스 이용
-#src
+
+src
+
   -find.controller
   
     > Controller
