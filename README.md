@@ -9,7 +9,7 @@
 
 src
 
-  -find.controller
+  find.controller
   
     > Controller
     > FrontController
@@ -20,11 +20,14 @@ src
     > InsertController
     > UpdateController
     > DeleteController
-  -find.dao
+  find.dao
+  
     > FindDAO
-  -find.service
+  find.service
+  
     > Service
-  -find.vo
+  find.vo
+  
     > ContentVO
     
     
