@@ -1,0 +1,75 @@
+@charset "UTF-8";
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap'); /*font-family: 'Gamja Flower', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');/*font-family: 'Pangolin', cursive;*/
+*	{
+	margin:0; 
+	padding:0; 
+	font-family: 'Gamja Flower', cursive;
+	}
+h1	{
+	text-align: center;
+	background-color: #fbf135;
+	font-size: 70px;
+	width:600px;
+	margin: 0px auto;
+	padding: 10px;
+	font-family: 'Pangolin', cursive;
+	color: #000;
+	}
+	a{
+	text-decoration:none
+	}
+h2	{
+	text-align: center;
+	background-color: #fbf135;
+	font-size: 30px;
+	width:600px;
+	margin: 0px auto;
+	padding: 0px;
+
+	}
+h3{/*
+	text-align: center;
+	background-color: #c0c0c0;
+	font-size: 20px;
+	width:600px;
+	margin: 0px auto;
+	padding: 0px;*/
+	
+	background-color: #fff;
+	width: 300px;
+	margin: 20px auto;
+	padding: 20px;
+	border: none;
+	
+    text-align: center;
+    font-size: 20px;
+	padding: 10px;
+	color: #000;
+}
+footer {
+
+	background-color: #fbf135;
+	width: 600px;
+	height:30px;
+	margin: 0px auto;
+	padding:10px;
+	text-align: center;
+	font-color: white;
+	text-decoration: none;
+	font-size : 20px;
+}
+footer ul{
+	text-decoration:none;
+	color: #000;
+}
+
+div{
+	text-align: center;
+	background-color: #fbf135;
+	font-size: 20px;
+	width:600px;
+	margin: 0px auto;
+	padding: 10px;
+}

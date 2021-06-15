@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap'); /*font-family: 'Gamja Flower', cursive;*/
+*	{
+	margin:0; 
+	padding:0; 
+	font-family: 'Gamja Flower', cursive;
+	}
+h1	{
+	text-align: center;
+	background-color: #fbf135;
+	font-size: 70px;
+	width:600px;
+	margin: 0px auto;
+	padding: 10px;
+	font-family: 'Pangolin', cursive;
+	color: #000;
+	}
+a{
+	text-decoration:none;
+	color: #000;
+}
+
+form{
+	background-color: #fbf135;
+	width: 600px;
+	height: 300px;
+	margin: 0px auto;
+	padding: 10px;
+	
+	}
+form input{
+	/*position: relative;*/
+	/*width: 400px;
+    height: 40px;
+    
+    padding: 10px;
+    border: solid 1px #dadada;
+    background: #fff;
+   
+    margin-bottom: 8px;*/
+    position: relative;
+    height: 40px;
+    margin: 30px 0px 0px 58px;
+    padding: 0px;
+    font-size: 20px;
+    border: solid 1px #dadada;
+    background: #fff;
+    width: 400px;
+    
+    justify-content: center;
+}
+button{
+	width: 70px;
+	height: 45px;
+	margin: 0px;
+	text-align: center;
+	
+	
+}
+div{
+	background-color: #c0c0c0;
+	width: 600px;
+	height:30px;
+	margin: 0px auto;
+	padding:10px;
+	text-align: center;
+	color:#000;
+	text-decoration: none;
+	font-size : 20px;
+}
